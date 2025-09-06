@@ -9,7 +9,7 @@ In 2018 I learned about [Bitcoin](https://bitcoin.org/bitcoin.pdf){:target="_bla
 
 These days, I'm fascinated by stablecoin rails and all things AI (mostly agentic workflows, RL/fine-tuning, and exploring the limits of autonomous trading agents).
 
-I spend my free time hanging out with my wife and two boys, traveling, and working on my 1978 F-150.
+I spend my free time hanging out with my wife and two boys, traveling, and working on my [1978 F-150](https://imgur.com/a/7vdpApW){:target="_blank"}.
 
 If you want to chat, feel free to reach me at:
 
