@@ -1,7 +1,7 @@
 Title: About
 Date: 2025-01-27 10:00
 
-Hi, I'm Santi.
+<small>Hi, I'm Santi.
 
 I was born in [Buenos Aires](https://www.argentina.travel/en/buenos-aires/caba){:target="_blank"}, Argentina, studied economics at [BYU](https://www.byu.edu/){:target="_blank"}, and went on to learn software development at [Devmountain](http://devmountain.com){:target="_blank"}.
 
@@ -13,4 +13,4 @@ I spend my free time hanging out with my wife and two boys, traveling, and worki
 
 If you want to chat, feel free to reach me at:
 
-santi [at] ara0z.com
+santi [at] ara0z.com</small>
