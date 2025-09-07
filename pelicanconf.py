@@ -33,7 +33,7 @@ LINKS = ()
 SOCIAL = (
     ('x', 'https://x.com/santiayz'),
     ('github', 'https://github.com/ara0z'),
-    ('linkedin', 'https://www.linkedin.com/in/santiaraoz/'),
+    ('linkedin', 'https://www.linkedin.com/in/ara0z/'),
 )
 
 # Pagination
