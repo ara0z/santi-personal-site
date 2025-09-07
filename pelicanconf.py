@@ -3,7 +3,7 @@
 
 # Basic site information
 AUTHOR = 'Santiago Araoz'
-SITENAME = 'Santiago Araoz'
+SITENAME = 'ara0z'
 SITEURL = 'http://localhost:8000'
 
 # Path settings
