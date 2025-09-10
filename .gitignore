@@ -1,2 +1,14 @@
+# Build output
 output/
-nvidia-rtx-5090-stock-checker/
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv/
+# macOS
+.DS_Store
+# Editor
+.vscode/
+.idea/

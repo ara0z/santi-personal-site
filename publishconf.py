@@ -5,9 +5,10 @@
 # For development, use pelicanconf.py instead.
 
 from pelicanconf import *
+import os
 
 # Production settings
-SITEURL = 'https://your-domain.com'  # Change this to your actual domain
+SITEURL = os.environ.get('SITEURL', '')  # Set via CI for GitHub Pages
 RELATIVE_URLS = False
 
 # Uncomment and configure these for production:
