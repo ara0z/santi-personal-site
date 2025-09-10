@@ -4,8 +4,11 @@
 # This file is intended for settings to be used when publishing the site.
 # For development, use pelicanconf.py instead.
 
-from pelicanconf import *
 import os
+import sys
+# Ensure this directory is importable when run in CI
+sys.path.insert(0, os.path.dirname(__file__))
+from pelicanconf import *
 
 # Production settings
 SITEURL = os.environ.get('SITEURL', '')  # Set via CI for GitHub Pages
