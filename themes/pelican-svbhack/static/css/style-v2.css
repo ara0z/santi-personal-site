@@ -13,6 +13,11 @@ main article div.article_title h1 {
   font-size: 1rem;
   margin: 0;
 }
+
+/* Make homepage body text smaller to match projects/investments pages */
+main article div.article_text {
+  font-size: 0.8rem;
+}
 a {
   color: #000000;
   text-decoration: none;
