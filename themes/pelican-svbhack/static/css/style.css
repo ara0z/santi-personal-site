@@ -1,11 +1,10 @@
 body {
   margin: 0;
   padding: 0;
-  background-color: #ffcccc !important;
-  color: #000000 !important;
+  background-color: #ffffff;
+  color: #4d4d4d;
   font-family: 'PT Sans', sans-serif;
   font-size: 18px;
-  border: 5px solid red !important;
 }
 a {
   color: #000000;
