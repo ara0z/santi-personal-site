@@ -57,7 +57,7 @@
         {% for title, link in MENUITEMS %}
         <li><a href="{{ link }}">{{ title }}</a></li>
         {% endfor %}
-        <li><a href="{{ SITEURL }}">🏠</a></li>
+        <li><a href="{{ SITEURL }}/pages/about.html">🏠</a></li>
         {% if DISPLAY_PAGES_ON_MENU %}{% for p in pages %}
         {% if p.title != "About" %}<li><a href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a></li>{% endif %}
         {% endfor %}{% endif %}
