@@ -50,6 +50,9 @@
       {% endif %}
       <h2><a href="{{ SITEURL }}">{{ SITENAME }}</a></h2>
       <p>{{ TAGLINE }}</p>
+      <div class="headshot" style="margin: 15px 0; text-align: center;">
+        <img src="{{ SITEURL }}/images/headshot.jpg" alt="Santiago Araoz" style="width: 100%; max-width: 120px; height: auto; object-fit: contain; border-radius: 50%;">
+      </div>
       <ul>
         {% for title, link in MENUITEMS %}
         <li><a href="{{ link }}">{{ title }}</a></li>
