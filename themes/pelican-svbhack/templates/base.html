@@ -61,7 +61,7 @@
         <li><a href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a></li>
         {% endfor %}{% endif %}
         {% if DISPLAY_CATEGORIES_ON_MENU %}{% for c, _ in categories %}
-        <li><a href="{{ SITEURL }}/{{ c.url }}">{{ c }}</a></li>
+        {% if c != "misc" %}<li><a href="{{ SITEURL }}/{{ c.url }}">{{ c }}</a></li>{% endif %}
         {% endfor %}{% endif %}
         {% for name, link in LINKS %}
         <li><a href="{{ link }}" target="_blank">{{ name }}</a></li>
