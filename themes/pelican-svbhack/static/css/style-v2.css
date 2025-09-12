@@ -7,6 +7,12 @@ body {
   font-size: 18px;
   /* Cache bust: 2025-09-12-22:35 */
 }
+
+/* Make article title h1 smaller to match sidebar links */
+main article div.article_title h1 {
+  font-size: 1rem;
+  margin: 0;
+}
 a {
   color: #000000;
   text-decoration: none;
