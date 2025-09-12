@@ -43,7 +43,7 @@ DEFAULT_PAGINATION = 10
 RELATIVE_URLS = True
 
 # Theme-specific settings for pelican-svbhack
-TAGLINE = '- reading, tinkering, building'
+TAGLINE = 'reading, tinkering, building'
 HIDE_USER_LOGO = True
 
 # Optional: Google Analytics (uncomment and add your tracking ID)
